@@ -1,0 +1,205 @@
+{
+  "Playstation" : [ {
+    "name" : "Battlefield V",
+    "price" : "$40",
+    "quantity" : "8",
+    "store" : "GameShop"
+  }, {
+    "name" : "Red Dead Redemption 2",
+    "price" : "$60",
+    "quantity" : "8",
+    "store" : "GameShop"
+  }, {
+    "name" : "Call of Duty: Black Ops 4",
+    "price" : "$60",
+    "quantity" : "8",
+    "store" : "GameShop"
+  }, {
+    "name" : "Madden NFL 19",
+    "price" : "$60",
+    "quantity" : "8",
+    "store" : "GameShop"
+  }, {
+    "name" : "NBA 2K19",
+    "price" : "$60",
+    "quantity" : "8",
+    "store" : "GameShop"
+  }, {
+    "name" : "Grand Theft Auto V",
+    "price" : "$20",
+    "quantity" : "8",
+    "store" : "GameShop"
+  }, {
+    "name" : "Assassin's Creed Odyssey",
+    "price" : "$60",
+    "quantity" : "8",
+    "store" : "GameShop"
+  }, {
+    "name" : "FIFA 19",
+    "price" : "$60",
+    "quantity" : "8",
+    "store" : "GameShop"
+  }, {
+    "name" : "NHL 19",
+    "price" : "$60",
+    "quantity" : "8",
+    "store" : "GameShop"
+  }, {
+    "name" : "Minecraft",
+    "price" : "$20",
+    "quantity" : "8",
+    "store" : "GameShop"
+  }, {
+    "name" : "Hitman 2",
+    "price" : "$60",
+    "quantity" : "8",
+    "store" : "GameShop"
+  }, {
+    "name" : "Darksiders III",
+    "price" : "$60",
+    "quantity" : "8",
+    "store" : "GameShop"
+  }, {
+    "name" : "God of War",
+    "price" : "$20",
+    "quantity" : "8",
+    "store" : "GameShop"
+  }, {
+    "name" : "Horizon: Zero Dawn",
+    "price" : "$20",
+    "quantity" : "8",
+    "store" : "GameShop"
+  } ],
+
+  "Switch" : [ {
+    "name" : "Mario Kart 8 Deluxe",
+    "price" : "$60",
+    "quantity" : "8",
+    "store" : "GameShop"
+  }, {
+    "name" : "Super Smash Bros Ultimate",
+    "price" : "$60",
+    "quantity" : "8",
+    "store" : "GameShop"
+  }, {
+    "name" : "Legend of Zelda: Breath of the Wild",
+    "price" : "$60",
+    "quantity" : "8",
+    "store" : "GameShop"
+  }, {
+    "name" : "Super Mario Party",
+    "price" : "$60",
+    "quantity" : "8",
+    "store" : "GameShop"
+  }, {
+    "name" : "Super Mario Odyssey",
+    "price" : "$60",
+    "quantity" : "8",
+    "store" : "GameShop"
+  }, {
+    "name" : "Splatoon 2",
+    "price" : "$60",
+    "quantity" : "8",
+    "store" : "GameShop"
+  }, {
+    "name" : "Sonic Mania Plus",
+    "price" : "$30",
+    "quantity" : "8",
+    "store" : "GameShop"
+  }, {
+    "name" : "FIFA 19",
+    "price" : "$60",
+    "quantity" : "8",
+    "store" : "GameShop"
+  }, {
+    "name" : "ARMS",
+    "price" : "$60",
+    "quantity" : "8",
+    "store" : "GameShop"
+  }, {
+    "name" : "NBA 2K19",
+    "price" : "$60",
+    "quantity" : "8",
+    "store" : "GameShop"
+  } ],
+
+  "Xbox" : [ {
+    "name" : "Battlefield V",
+    "price" : "$40",
+    "quantity" : "8",
+    "store" : "GameShop"
+  }, {
+    "name" : "Red Dead Redemption 2",
+    "price" : "$60",
+    "quantity" : "8",
+    "store" : "GameShop"
+  }, {
+    "name" : "Call of Duty: Black Ops 4",
+    "price" : "$60",
+    "quantity" : "8",
+    "store" : "GameShop"
+  }, {
+    "name" : "Forza Horizon 4",
+    "price" : "$60",
+    "quantity" : "8",
+    "store" : "GameShop"
+  }, {
+    "name" : "Madden NFL 19",
+    "price" : "$60",
+    "quantity" : "8",
+    "store" : "GameShop"
+  }, {
+    "name" : "NBA 2K19",
+    "price" : "$60",
+    "quantity" : "8",
+    "store" : "GameShop"
+  }, {
+    "name" : "Grand Theft Auto V",
+    "price" : "$20",
+    "quantity" : "8",
+    "store" : "GameShop"
+  }, {
+    "name" : "Assassin's Creed Odyssey",
+    "price" : "$60",
+    "quantity" : "8",
+    "store" : "GameShop"
+  }, {
+    "name" : "FIFA 19",
+    "price" : "$60",
+    "quantity" : "8",
+    "store" : "GameShop"
+  }, {
+    "name" : "NHL 19",
+    "price" : "$60",
+    "quantity" : "8",
+    "store" : "GameShop"
+  }, {
+    "name" : "Minecraft",
+    "price" : "$20",
+    "quantity" : "8",
+    "store" : "GameShop"
+  }, {
+    "name" : "Hitman 2",
+    "price" : "$60",
+    "quantity" : "8",
+    "store" : "GameShop"
+  }, {
+    "name" : "Darksiders III",
+    "price" : "$60",
+    "quantity" : "8",
+    "store" : "GameShop"
+  }, {
+    "name" : "Shadow of the Tomb Raider",
+    "price" : "$60",
+    "quantity" : "8",
+    "store" : "GameShop"
+  } ],
+
+  "Users" : [ {
+      "carstoncook@gmail.com" : {
+          
+      }
+  }
+    
+  ]
+}
